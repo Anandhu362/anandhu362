@@ -1,16 +1,25 @@
-## Hi there 👋
+# Anandhu V S
 
-<!--
-**Anandhu362/anandhu362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer & Cloud Engineer based in Dubai.  
+Founder of **MenuSent** – a digital menu and web automation platform.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I specialize in:
+- MERN stack web development
+- Google Cloud & Cloud Run (serverless)
+- Backend cost optimization
+- Docker & DevOps workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🌐 Portfolio: https://portfolio-anandhu-v-s.vercel.app/
+- 🧾 Blog (Cloud Run case study):  
+  https://anandhuvsmenusent.blogspot.com/2026/01/cloud-run-backend-migration-anandhu-v-s.html
+- ✍️ Medium:  
+  https://medium.com/@anandhuanandhu4321/how-i-reduced-backend-cost-and-improved-scalability-using-google-cloud-run-9b564c23a3eb
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/anandhuvsin
+- 🍽️ MenuSent:  
+  https://menusent.com
+
+## 🧠 Focus
+Building scalable, cost-efficient, cloud-native backend systems.
