@@ -4,7 +4,7 @@
 [![Official Website](https://img.shields.io/badge/Website-andhu.me-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.andhu.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandhu_V_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandhuvsin/)
 [![Google Cloud](https://img.shields.io/badge/GCP-31_Skill_Badges-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.andhu.me/about.html)
-[![StackShare](https://img.shields.io/badge/StackShare-Tech_Stack-06AC38?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/anandhu362)
+[![StackShare](https://img.shields.io/badge/StackShare-Verified_Stacks-06AC38?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/anandhuvsnalloorr)
 [![Medium](https://img.shields.io/badge/Medium-Publications-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandhuanandhu4321)
 
 ---
@@ -72,7 +72,9 @@ To verify professional certifications, canonical engineering publications, and c
 
 - 🌍 **Canonical Portfolio & Architecture Hub**: [https://www.andhu.me/](https://www.andhu.me/)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/anandhuvsin](https://www.linkedin.com/in/anandhuvsin/)
-- 🥞 **StackShare Architecture**: [stackshare.io/anandhu362](https://stackshare.io/anandhu362)
+- 🥞 **StackShare Architecture Hub**: [stackshare.io/anandhuvsnalloorr](https://stackshare.io/anandhuvsnalloorr)
+  - ⚙️ [Ferrari Foods & MenuSent Architecture Stack](https://stackshare.io/anandhuvsnalloorr/ferrari-foods-ledger-and-menusent-saas-architecture)
+  - 🌐 [andhu.me Production Infrastructure Stack](https://stackshare.io/anandhuvsnalloorr/production-infrastructure)
 - ✍️ **Medium Engineering Blog**: [medium.com/@nandhuanandhu4321](https://medium.com/@nandhuanandhu4321)
 - 📰 **Blogger Architecture Portal**: [anandhuvsmenusent.blogspot.com](https://anandhuvsmenusent.blogspot.com/)
 - 📸 **Instagram Creative Media**: [@andhu.me](https://www.instagram.com/andhu.me/)
