@@ -64,6 +64,11 @@ I am a **Dubai-based Full-Stack Software Engineer, Cloud Architect, and Applied 
 > **Circular Economy Marketplace with Multimodal AI**  
 > Textile reuse and commercial recycling portal powered by Google Gemini multimodal API for automated image classification and upcycling suggestions.
 
+### 6. [print-orchestration-platform](https://github.com/Anandhu362/print-orchestration-platform)
+> **Autonomous Commercial Print Orchestration & Factory Ledger Engine**  
+> High-throughput WhatsApp-to-Sheets pipeline for UAE commercial printing presses, transforming heavy vector payloads (up to 2GB) into real-time production ledgers in <4s with zero data loss via Google Cloud Run, Poppler rasterization, and Gemini 2.5 Flash Multimodal Vision.  
+> 🔗 [View System Dossier & Evidence](https://github.com/Anandhu362/print-orchestration-platform#readme)
+
 ---
 
 ## 🌐 Verified Knowledge Graph & Authority Links
