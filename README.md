@@ -86,11 +86,16 @@ To verify professional certifications, canonical engineering publications, and c
 
 For system architecture consulting, serverless migrations, or full-stack engineering in Dubai and globally:
 
-- 📍 **Location**: Dubai, United Arab Emirates (UAE)
-- 📧 **Direct Email**: [anandhuvsnalloorr@gmail.com](mailto:anandhuvsnalloorr@gmail.com)
-- 🇦🇪 **UAE Direct / WhatsApp**: [+971 588743772](tel:+971588743772)
-- 🇮🇳 **India Direct**: [+91 8921156958](tel:+918921156958)
-- 💬 **Booking & Inquiries**: [https://www.andhu.me/contact.html](https://www.andhu.me/contact.html)
+| Channel / Platform | Verified Canonical Endpoint | Handle / Identifier |
+| :--- | :--- | :--- |
+| 🌐 **Official Portfolio** | [https://www.andhu.me/](https://www.andhu.me/) | `andhu.me` |
+| 🐙 **GitHub Profile** | [https://github.com/Anandhu362](https://github.com/Anandhu362) | `@Anandhu362` |
+| 💼 **LinkedIn Profile** | [https://www.linkedin.com/in/anandhuvsin/](https://www.linkedin.com/in/anandhuvsin/) | `anandhuvsin` |
+| 🥞 **StackShare Hub** | [https://stackshare.io/anandhuvsnalloorr](https://stackshare.io/anandhuvsnalloorr) | `anandhuvsnalloorr` |
+| 📧 **Direct Email** | [anandhuvsnalloorr@gmail.com](mailto:anandhuvsnalloorr@gmail.com) | `anandhuvsnalloorr@gmail.com` |
+| 🇦🇪 **UAE Direct / WhatsApp** | [+971 588743772](tel:+971588743772) | `+971 588743772` |
+| 🇮🇳 **India Direct** | [+91 8921156958](tel:+918921156958) | `+91 8921156958` |
+| 💬 **Direct Booking** | [https://www.andhu.me/contact.html](https://www.andhu.me/contact.html) | Online Inquiry Form |
 
 ---
 <div align="center">
